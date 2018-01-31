@@ -1,0 +1,10 @@
+listPointer = [ 0, 2, 4 ]
+myList = [23, 4,5, 66,12, 236, 9, 136, 9 ]
+
+for index in listPointer :
+    print(myList[index])
+    
+    myMap = {1: "Hello" 2: "Goodbye"}
+    for element in myMap:
+      value = (1 or 2)
+      print("key" + str(element) + "value" + str(myMap))
